@@ -5,7 +5,7 @@
 __pycache__
 db.sqlite3
 media
-.projeto/.*
+projeto/
 
 # Backup files #
 *.bak
@@ -129,3 +129,4 @@ gunicorn-error-log
 db.sqlite3
 db copy.sqlite3
 static/
+/projeto
