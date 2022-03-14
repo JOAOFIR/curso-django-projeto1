@@ -5,6 +5,7 @@
 __pycache__
 db.sqlite3
 media
+.projeto
 
 # Backup files #
 *.bak
@@ -129,3 +130,5 @@ db.sqlite3
 db copy.sqlite3
 static/
 /projeto/settings.py
+/.projeto
+./projeto
