@@ -5,7 +5,6 @@
 __pycache__
 db.sqlite3
 media
-projeto/
 
 # Backup files #
 *.bak
@@ -26,7 +25,7 @@ projeto/
 *.iws /out/
 
 # Python #
-*.py[cod]
+*.py[code]
 *$py.class
 
 # Distribution / packaging
